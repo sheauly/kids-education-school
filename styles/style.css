@@ -258,7 +258,7 @@ h2 {
 
 .hero-kids {
     background-color: white;
-    border-radius: 16px;
+    border-radius: 20px;
 }
 
 .story-image-1 {
@@ -275,7 +275,7 @@ h2 {
     width: 150px;
     height: 40px;
     border: none;
-    border-radius: 10px;
+    border-radius: 20px;
     color: white;
     font-weight: 500;
     margin-top: -150%;
@@ -286,7 +286,7 @@ h2 {
     width: 150px;
     height: 40px;
     border: none;
-    border-radius: 10px;
+    border-radius: 20px;
     margin-top: -150%;
     color: white;
 }
@@ -296,7 +296,7 @@ h2 {
     width: 150px;
     height: 40px;
     border: none;
-    border-radius: 10px;
+    border-radius: 20px;
     margin-top: -150%;
     color: white;
 }
@@ -435,6 +435,7 @@ h2 {
         height: 30px;
         margin-right: -40px;
         margin-left: 30px;
+        margin-top: 1px;
     }
 
     .btn-blue-1 {
@@ -442,6 +443,7 @@ h2 {
         height: 30px;
         margin-right: -40px;
         margin-left: 30px;
+        margin-top: 1px;
     }
 
     .btn-blue {
@@ -449,6 +451,7 @@ h2 {
         height: 30px;
         margin-right: -40px;
         margin-left: 30px;
+        margin-top: 1px;
     }
 
     .btn-black-2 {
