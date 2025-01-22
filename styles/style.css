@@ -245,7 +245,7 @@ h2 {
 
 .images-card-1 {
     width: 292px;
-    border-radius: 10px 10px 10px 0px;
+    border-radius: 10px 10px 0px 0px;
     background-color: white;
 }
 
@@ -263,7 +263,7 @@ h2 {
 
 .story-image-1 {
     width: 540px;
-    border-radius: 8px;
+    border-radius: 10px 10px 0px 0px;
 }
 
 .word {
@@ -426,7 +426,6 @@ h2 {
         grid-template-columns: repeat(2, 1fr);
         gap: 10px;
     }
-
     .images-card-1 {
         width: 162px;
     }
