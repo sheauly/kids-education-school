@@ -412,23 +412,23 @@ h2 {
         gap: 10px;
     }
         .images-card-1{
-            width: 200px;
+            width: 150px;
         }
         .btn-olive{
-            width: 120px;
+            width: 100px;
             height: 30px;
             margin-right: -40px;
             margin-left: 30px;
             
         }
         .btn-blue-1{
-            width: 120px;
+            width: 100px;
             height: 30px;
             margin-right: -40px;
             margin-left: 30px;
         }
         .btn-blue{
-             width: 120px;
+             width: 100px;
             height: 30px;
             margin-right: -40px;
             margin-left: 30px;
@@ -441,6 +441,9 @@ h2 {
     .footer-part {
         flex-direction: column;
         
+    }
+    .margin-footer{
+        margin-left: 40px;
     }
     .footer-part{
         width: 100%;
