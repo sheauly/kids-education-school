@@ -249,14 +249,9 @@ h2 {
     background-color: white;
     border-radius: 16px;
 }
-
 .story-image-1 {
     width: 540px;
     border-radius: 8px;
-}
-
-.hide {
-    display: none;
 }
 
 .word {
@@ -298,7 +293,6 @@ h2 {
     background-color: #111111;
     color: white;
     padding: 15px 50px;
-
     border-radius: 10px;
     margin-top: 40px;
     justify-content: center;
@@ -422,30 +416,33 @@ h2 {
         }
         .btn-olive{
             width: 120px;
+            height: 30px;
             margin-right: -40px;
+            margin-left: 30px;
+            
         }
         .btn-blue-1{
             width: 120px;
+            height: 30px;
             margin-right: -40px;
+            margin-left: 30px;
         }
         .btn-blue{
-            width: 120px;
+             width: 120px;
+            height: 30px;
             margin-right: -40px;
+            margin-left: 30px;
         }
     .btn-black-2 {
         align-items: center;
-        /* margin-right: -25px;  */
+        
     }
 
     .footer-part {
         flex-direction: column;
-        text-align: center;
-        justify-content: center;
-        align-items: center;
         
     }
     .footer-part{
         width: 100%;
     }
-
 }
